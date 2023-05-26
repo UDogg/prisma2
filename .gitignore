@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+
+# Next.js
+.next/
+out/
+
+# Node.js
+node_modules/
+
+# Build artifacts
+build/
+dist/
+*.log
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Next.js Image Optimization
+/.next/cache
+/next.config.js
+
+# IDE
+.idea/
+.vscode/
+.env
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Linux
+*~
+
+# System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+*.swp
+*.bak
+*~
+
+# Editor-specific files
+*.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
